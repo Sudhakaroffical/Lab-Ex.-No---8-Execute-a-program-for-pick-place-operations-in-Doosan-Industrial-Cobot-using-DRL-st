@@ -40,17 +40,30 @@ Procedure:
 
 
 ## Program 
-// Roll no:
+// Roll no: 212222240107
 
-//Name:
-MoveJ ................
+//Name: SUDHAKAR K
+
 
 ## output : 
 
 
+![kine 1](https://github.com/Sudhakaroffical/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/118622513/9a34e11c-51ed-4afc-af74-4fe836d6d7b1)
+
+
+![kine 2](https://github.com/Sudhakaroffical/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/118622513/ec3304d8-bcac-46b9-8a10-67ccd07a26c8)
+
+
+![kine 3](https://github.com/Sudhakaroffical/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/118622513/c87ef6ca-8a4a-4a8e-8ff3-1a62737758f0)
+
+
+![kine 4](https://github.com/Sudhakaroffical/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/118622513/296738bd-7874-4f4a-b974-b50689d6d3bb)
+
+
+
 ## Results: 
 
-
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully
 
 
 
